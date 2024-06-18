@@ -1,6 +1,8 @@
 # CMEI Quarto templates
 
-This Quarto format will help you create documents for the CMEI documents. For more about Quarto and how to use format extensions, see <https://quarto.org/docs/extensions/managing.html>.
+This Quarto format will help you create documents for the CMEI documents. 
+
+For more about Quarto and how to use format extensions, see <https://quarto.org/docs/extensions/managing.html>.
 
 ## Creating a New Document
 
@@ -19,7 +21,7 @@ You may also use this format with an existing Quarto project or document. From t
 
 ## Usage 
 
-To use the format, you can use the format names `cmei-pptx` and `cmei-pdf`. For example:
+To use the format, you can use the format names `cmei-pptx`. For example:
 
 ```quarto render slides.qmd --to cmei-pptx```
 
